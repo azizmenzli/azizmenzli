@@ -92,13 +92,15 @@ I’m a passionate Full Stack Developer with a solid foundation in **JavaScript*
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AzizMenzli&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"
-    alt="Aziz Menzli GitHub Stats"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzizMenzli&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/AzizMenzli?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/AzizMenzli?style=for-the-badge" />
 </p>
 
 ---
