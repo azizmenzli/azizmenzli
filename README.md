@@ -91,19 +91,5 @@ I’m a passionate Full Stack Developer with a solid foundation in **JavaScript*
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/AzizMenzli)
 
 ---
-
-### 📊 GitHub Activity
-
-<p align="center">
-  [!(https://github-readme-stats.vercel.app/api?username=azizmenzli)](https://github.com/azizmenzli/github-readme-stats)
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/AzizMenzli?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/AzizMenzli?style=for-the-badge" />
-</p>
-
----
-
 > 💡 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
