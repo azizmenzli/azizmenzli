@@ -95,7 +95,7 @@ I’m a passionate Full Stack Developer with a solid foundation in **JavaScript*
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzizMenzli&theme=radical&hide_border=true" />
+  [!(https://github-readme-stats.vercel.app/api?username=azizmenzli)](https://github.com/azizmenzli/github-readme-stats)
 </p>
 
 <p align="center">
